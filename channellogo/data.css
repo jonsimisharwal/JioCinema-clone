@@ -1,0 +1,19 @@
+.logo-button{
+   display:flex;
+   align-items: center;
+   border-radius: 40px;
+   padding: 2px;
+   background-color: white;
+   border: 10px;
+   box-shadow: 10px;
+  width:50vw;
+  height:20vh;
+  margin: 10px;
+  background-size: auto-fit;
+}
+.logo-button img{
+   height:20vh;
+   width:10vw;
+   border-radius: 20px;
+
+}
