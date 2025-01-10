@@ -1,0 +1,11 @@
+.channel{
+    display: flex;
+    padding:5px 10px;
+    border-radius: 80px;
+    margin:20px;
+    justify-content: space-between;
+    background-color: #888;
+    align-items: center;
+    color:aliceblue;
+    
+}

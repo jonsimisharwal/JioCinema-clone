@@ -1,0 +1,20 @@
+.Fchannel{
+    display:flex;
+    background-color: #4b134f;
+}
+
+.card{
+    border-color: aquamarine;
+    display: flex;
+    box-sizing: content-box;
+    height:12vh;
+    width:13vw;
+    align-items: center;
+   
+    
+}
+.tcard{
+    display: flex-row;
+    align-items: center;
+    
+}
