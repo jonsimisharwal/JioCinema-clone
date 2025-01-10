@@ -1,0 +1,13 @@
+.episodes{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+   
+    margin:10px;
+    position: relative;
+}
+.episodes img{
+    height:20vh;
+    width:30vw;
+    display:flex;
+}
